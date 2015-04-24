@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if [[ -d /run/systemd/system ]]; then
+    systemctl restart rsyslog.service
+else
+    service rsyslog restart
+fi

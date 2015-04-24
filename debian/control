@@ -1,0 +1,12 @@
+Source: rsyslog-common-configs
+Section: misc
+Priority: optional
+Maintainer: Azer Abdullaev (Like All) <like-all@yandex.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/Like-all/rsyslog-common-configs
+
+Package: rsyslog-common-configs
+Architecture: any
+Depends: rsyslog
+Description: set of basic rsyslog configs for services
