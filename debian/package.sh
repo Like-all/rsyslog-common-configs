@@ -1,7 +1,6 @@
-export DEBFULLNAME="Azer Abdullaev (Like All)"
-export DEBEMAIL="like-all@yandex.com"
-
 NAME="rsyslog-common-configs"
-VERSION="0.1"
-SUFFIX="2"
-FLAVOURS="wheezy,jessie,precise,trusty"
+PRODUCTION_FLAVOURS="jessie"
+PRODUCTION_ARCHITECTURES="amd64"
+TESTING_FLAVOURS="jessie"
+TESTING_ARCHITECTURES="amd64"
+DEBREW_HIDDEN_REPO="true"
