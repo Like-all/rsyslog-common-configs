@@ -1,8 +1,14 @@
-rsyslog-common-configs (0.1-5) UNRELEASED; urgency=medium
+rsyslog-common-configs (0.1-6) UNRELEASED; urgency=medium
+
+  * Version bump
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 17:58:43 +0300
+
+rsyslog-common-configs (0.1-5) unstable; urgency=medium
 
   * Logrotate config for apps
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 17:33:19 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 17:58:39 +0300
 
 rsyslog-common-configs (0.1-4) unstable; urgency=medium
 
