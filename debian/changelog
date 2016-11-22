@@ -1,8 +1,14 @@
-rsyslog-common-configs (0.1-2) UNRELEASED; urgency=medium
+rsyslog-common-configs (0.1-3) UNRELEASED; urgency=medium
+
+  * Fix postinstall and postrm scripts
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 16:02:12 +0300
+
+rsyslog-common-configs (0.1-2) unstable; urgency=medium
 
   * Generic apps logs
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 15:18:41 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 15:57:04 +0300
 
 rsyslog-common-configs (0.1-1) unstable; urgency=low
 
