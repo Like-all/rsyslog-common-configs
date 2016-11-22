@@ -1,1 +1,2 @@
 rsyslog.d/* /etc/rsyslog.d/
+logrotate.d/* /etc/logrotate.d/
