@@ -1,8 +1,14 @@
-rsyslog-common-configs (0.1-6) UNRELEASED; urgency=medium
+rsyslog-common-configs (0.1-7) UNRELEASED; urgency=medium
+
+  * Add CRON to apps logs
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 25 Jan 2017 12:28:18 +0300
+
+rsyslog-common-configs (0.1-6) unstable; urgency=medium
 
   * Version bump
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Nov 2016 17:58:43 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 25 Jan 2017 12:28:10 +0300
 
 rsyslog-common-configs (0.1-5) unstable; urgency=medium
 
