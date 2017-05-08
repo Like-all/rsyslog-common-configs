@@ -1,8 +1,14 @@
-rsyslog-common-configs (0.1-7) UNRELEASED; urgency=medium
+rsyslog-common-configs (0.1-8) UNRELEASED; urgency=medium
+
+  * Keep only last 5 days of logs
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 08 May 2017 01:35:48 -0700
+
+rsyslog-common-configs (0.1-7) unstable; urgency=medium
 
   * Add CRON to apps logs
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 25 Jan 2017 12:28:18 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 08 May 2017 01:35:45 -0700
 
 rsyslog-common-configs (0.1-6) unstable; urgency=medium
 
